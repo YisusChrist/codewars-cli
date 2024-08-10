@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contributing to codewars-cli
+    url: https://github.com/YisusChrist/codewars-cli/blob/main/CONTRIBUTING.md
+    about: Guidelines for how to report an issue.
+  - name: Support
+    url: https://github.com/YisusChrist/codewars-cli/discussions
+    about: Ask the community for support
+  - name: Documentation
+    url: https://github.com/YisusChrist/codewars-cli/wiki
+    about: Many questions might be already answered here.
