@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
 import click
 
-from .consts import PROGRESS_OPTIONS, SORT_BY_OPTIONS
-from .helpers import create_console, create_scraper, get_cookies
+from codewars_cli.consts import PROGRESS_OPTIONS, SORT_BY_OPTIONS
+from codewars_cli.helpers import create_console, create_scraper, get_cookies
 
 
 @click.command()

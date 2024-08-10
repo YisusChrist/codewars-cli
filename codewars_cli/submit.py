@@ -1,6 +1,6 @@
 import click
 
-from .helpers import create_console, create_scraper, get_cookies, load_data
+from codewars_cli.helpers import create_console, create_scraper, get_cookies, load_data
 
 
 @click.command()

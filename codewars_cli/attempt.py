@@ -1,7 +1,13 @@
 import click
 
-from .helpers import (create_scraper, get_cookies, load_code, load_data,
-                      notify, run)
+from codewars_cli.helpers import (
+    create_scraper,
+    get_cookies,
+    load_code,
+    load_data,
+    notify,
+    run,
+)
 
 
 @click.command()

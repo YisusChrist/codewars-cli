@@ -9,7 +9,7 @@ from rich.padding import Padding
 from rich.panel import Panel
 from rich.tree import Tree
 
-from .consts import LANGUAGE_EXTS
+from codewars_cli.consts import LANGUAGE_EXTS
 
 
 def create_scraper() -> cloudscraper.CloudScraper:

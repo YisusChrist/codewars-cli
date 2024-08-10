@@ -6,8 +6,8 @@ import urllib
 import click
 from rich.markdown import Markdown
 
-from .consts import LANGUAGE_EXTS
-from .helpers import create_console, create_scraper, get_cookies
+from codewars_cli.consts import LANGUAGE_EXTS
+from codewars_cli.helpers import create_console, create_scraper, get_cookies
 
 
 @click.command()
